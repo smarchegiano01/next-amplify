@@ -1,0 +1,8 @@
+{
+    "CreateAPIKey": 1,
+    "AppSyncApiName": "NextBlog",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "S3DeploymentBucket": "amplify-nextamplify-dev-213823-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/0069efffad4f16f3e680b2e420a4948bb9b4eafc"
+}
